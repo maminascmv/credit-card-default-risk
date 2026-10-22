@@ -1,0 +1,13 @@
+# Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Modèles sauvegardés (régénérés par les notebooks)
+models/
+
+# Système et environnements
+.DS_Store
+.venv/
+venv/
