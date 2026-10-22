@@ -46,7 +46,7 @@ Le fichier brut (2,8 Mo) est inclus dans `data/`. Les détails sont dans `data/S
 Le projet a été exécuté avec Python 3.9.6 et les versions de `requirements.txt`. Ces versions s'installent avec Python 3.9 à 3.12 (elles n'existent pas pour Python 3.13 et plus).
 
 ```bash
-git clone <lien du dépôt>
+git clone https://github.com/maminascmv/credit-card-default-risk
 cd credit-card-default-risk
 python3 -m pip install -r requirements.txt
 python3 -m jupyterlab
@@ -92,7 +92,6 @@ Conformément aux consignes, je déclare avoir utilisé **Claude (Anthropic)** c
 - Assistance en codage ;
 - recherche d’un jeu de données selon critères ;
 - Orientation dans le plan financier ;
-- Reverifaction apres chaque étape.
-- Aide à la rédaction et à la mise en forme du rapport ;
-- Création des slides de soutenance.
+- Reverifaction apres chaque étape
+- Aide à la rédaction et à la mise en forme du rapport
 
