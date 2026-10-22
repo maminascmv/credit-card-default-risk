@@ -1,0 +1,8 @@
+{
+  "modele": "Random Forest",
+  "reglage": "{'max_depth': 14, 'min_samples_leaf': 50}",
+  "auc_validation": 0.7863,
+  "auc_test": 0.7775,
+  "rappel_test_modele": 0.5388,
+  "rappel_test_regle": 0.4974
+}

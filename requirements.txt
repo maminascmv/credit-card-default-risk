@@ -1,0 +1,13 @@
+#Versions exactes utilisées pour le projet (Python 3.9.6, installables avec Python 3.9 à 3.12)
+#Installation : pip install -r requirements.txt
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.13.1
+scikit-learn==1.6.1
+matplotlib==3.13.4
+seaborn==0.13.2
+joblib==1.5.3
+
+# Notebooks
+ipykernel==6.31.0
+jupyterlab==4.5.11
